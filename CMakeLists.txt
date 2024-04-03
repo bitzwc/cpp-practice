@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(${PROJECT_NAME} src/base/cppad.cpp)
 
 # ?
-target_link_libraries(${PROJECT_NAME} ipopt)
+# target_link_libraries(${PROJECT_NAME} ipopt)
